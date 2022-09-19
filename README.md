@@ -3,8 +3,8 @@
 
 
 
-<p align="justify">An aspiring full-stack web developer. Worked through 1000+ hours of Bootcamp structure, learning HTML, CSS, JavaScript, MongoDB, ExpressJs, ReactJs, NodeJs, and Data Structures and Algorithms along with 5+ collaborative and personal projects.Willing to learn and work across new technologies and domains.
-</p>
+<h4 align="justify">An aspiring full-stack web developer. Worked through 1000+ hours of Bootcamp structure, learning HTML, CSS, JavaScript, MongoDB, ExpressJs, ReactJs, NodeJs, and Data Structures and Algorithms along with 5+ collaborative and personal projects.Willing to learn and work across new technologies and domains.
+</h4>
 
 <h2>You can see my Resume
   <a href="https://drive.google.com/file/d/1ZsTFNShnERUF3fnuG2LNmSBu9ge6Im7r/view?usp=sharing" target="_blank">here</a>.
