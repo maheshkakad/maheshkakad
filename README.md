@@ -62,10 +62,10 @@
          alt="Mahesh" height="30"/></a>
       <a href="https://maheshkakad2020@gmail.com" target="_blank"><img align="center"
          src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
-         alt="Arfeen" height="30"/></a>
+         alt="Mahesh" height="30"/></a>
       <a href="https://maheshkakad.github.io/" target="_blank"><img align="center"
          src="https://img.shields.io/badge/-PORTFOLIO-3423A6?style=flat&logo=Google-Chrome&logoColor=white"
-         alt="Arfeen" height="30"/></a>
+         alt="Mahesh" height="30"/></a>
     </p>
   </samp>
 </div>
