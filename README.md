@@ -6,8 +6,8 @@
 </h1>
 
 
-<h4 align="justify">An aspiring full-stack web developer. Worked through 1000+ hours of Bootcamp structure, learning HTML, CSS, JavaScript, MongoDB, ExpressJs, ReactJs, NodeJs, and Data Structures and Algorithms along with 5+ collaborative and personal projects.Willing to learn and work across new technologies and domains.
-</h4>
+<h3 align="justify">An aspiring full-stack web developer. Worked through 1000+ hours of Bootcamp structure, learning HTML, CSS, JavaScript, MongoDB, ExpressJs, ReactJs, NodeJs, and Data Structures and Algorithms along with 5+ collaborative and personal projects.Willing to learn and work across new technologies and domains.
+</h3>
 
 <h2>You can see my Resume
   <a href="https://drive.google.com/file/d/1ZsTFNShnERUF3fnuG2LNmSBu9ge6Im7r/view?usp=sharing" target="_blank">here</a>.
@@ -29,7 +29,7 @@
 <div align="left">
 <h2 align="left">Skills & Frameworks:</h2>
   <p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="Mahesh"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="Maheshk"/>
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="Mahesh"/>
     <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="Mahesh"/>
     <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="Mahesh"/>
